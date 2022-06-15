@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JurassicWorld.Domain", "JurassicWorld.Domain\JurassicWorld.Domain.csproj", "{B3BF5421-570D-45B9-96C8-466DBFADED1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JurassicWorld.Web", "JurassicWorld.Web\JurassicWorld.Web.csproj", "{8F5DCE65-1699-4C7E-BA90-22496B1D85A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3BF5421-570D-45B9-96C8-466DBFADED1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BF5421-570D-45B9-96C8-466DBFADED1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BF5421-570D-45B9-96C8-466DBFADED1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BF5421-570D-45B9-96C8-466DBFADED1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5DCE65-1699-4C7E-BA90-22496B1D85A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5DCE65-1699-4C7E-BA90-22496B1D85A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5DCE65-1699-4C7E-BA90-22496B1D85A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5DCE65-1699-4C7E-BA90-22496B1D85A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE1E7317-40F6-49B5-8A22-5253D6F99D46}
+	EndGlobalSection
+EndGlobal

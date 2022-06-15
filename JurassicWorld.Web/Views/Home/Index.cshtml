@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<h3 class="text-center">Welcome to Jurassic World</h3>
+<div class="container">
+    <div class="row">
+        <a  class="card col-md-5" style="margin: 25px;padding-right:0!important; padding-left:0!important; " asp-area="" asp-controller="Home" asp-action="ShowDinos">
+        <img class="card-img-top" src="/img/home/home_dino.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="text-center">Our dinosaurs</h4>
+            </div>
+        </a>
+
+        <a class="card col-md-5" style="margin: 25px;padding-right:0!important; padding-left:0!important; " asp-area="" asp-controller="Home" asp-action="ShowAttractions">
+
+        
+        <img class="card-img-top" src="/img/home/home_attractions.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="text-center">Our attractions</h4>
+            </div>
+        </a>
+        </div>

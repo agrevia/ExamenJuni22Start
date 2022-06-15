@@ -1,0 +1,87 @@
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.staticwebassets.runtime.json
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.exe
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.deps.json
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.runtimeconfig.json
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.dll
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.pdb
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Domain.dll
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Domain.pdb
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.csproj.AssemblyReference.cache
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.AssemblyInfoInputs.cache
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.AssemblyInfo.cs
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.csproj.CoreCompileInputs.cache
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.RazorAssemblyInfo.cache
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.RazorAssemblyInfo.cs
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\scopedcss\bundle\JurassicWorld.Web.styles.css
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\scopedcss\projectbundle\JurassicWorld.Web.bundle.scp.css
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.csproj.CopyComplete
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.dll
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\refint\JurassicWorld.Web.dll
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.pdb
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.genruntimeconfig.cache
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Web\obj\Debug\net6.0\ref\JurassicWorld.Web.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\bin\Debug\net6.0\appsettings.Development.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\bin\Debug\net6.0\appsettings.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.staticwebassets.runtime.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.exe
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.deps.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.runtimeconfig.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.pdb
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Domain.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Domain.pdb
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.csproj.AssemblyReference.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.AssemblyInfoInputs.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.AssemblyInfo.cs
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.csproj.CoreCompileInputs.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.MvcApplicationPartsAssemblyInfo.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.RazorAssemblyInfo.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.RazorAssemblyInfo.cs
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\staticwebassets.build.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\staticwebassets.development.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\scopedcss\bundle\JurassicWorld.Web.styles.css
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\scopedcss\projectbundle\JurassicWorld.Web.bundle.scp.css
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.csproj.CopyComplete
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\refint\JurassicWorld.Web.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.pdb
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.genruntimeconfig.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Web\obj\Debug\net6.0\ref\JurassicWorld.Web.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.csproj.AssemblyReference.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.AssemblyInfoInputs.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.AssemblyInfo.cs
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.csproj.CoreCompileInputs.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.MvcApplicationPartsAssemblyInfo.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.RazorAssemblyInfo.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.RazorAssemblyInfo.cs
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\refint\JurassicWorld.Web.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.pdb
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\bin\Debug\net6.0\appsettings.Development.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\bin\Debug\net6.0\appsettings.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.staticwebassets.runtime.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.exe
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.deps.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.runtimeconfig.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Web.pdb
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Domain.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\bin\Debug\net6.0\JurassicWorld.Domain.pdb
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\staticwebassets.build.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\staticwebassets.development.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\scopedcss\bundle\JurassicWorld.Web.styles.css
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\scopedcss\projectbundle\JurassicWorld.Web.bundle.scp.css
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.csproj.CopyComplete
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\JurassicWorld.Web.genruntimeconfig.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_opgave\JurassicWorld.Web\obj\Debug\net6.0\ref\JurassicWorld.Web.dll

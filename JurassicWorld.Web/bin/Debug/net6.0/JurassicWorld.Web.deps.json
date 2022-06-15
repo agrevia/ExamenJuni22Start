@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JurassicWorld.Web/1.0.0": {
+        "dependencies": {
+          "JurassicWorld.Domain": "1.0.0"
+        },
+        "runtime": {
+          "JurassicWorld.Web.dll": {}
+        }
+      },
+      "JurassicWorld.Domain/1.0.0": {
+        "runtime": {
+          "JurassicWorld.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JurassicWorld.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JurassicWorld.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

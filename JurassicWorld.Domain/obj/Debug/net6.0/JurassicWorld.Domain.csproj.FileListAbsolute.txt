@@ -1,0 +1,24 @@
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\bin\Debug\net6.0\JurassicWorld.Domain.deps.json
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\bin\Debug\net6.0\JurassicWorld.Domain.dll
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\bin\Debug\net6.0\JurassicWorld.Domain.pdb
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.csproj.AssemblyReference.cache
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.AssemblyInfoInputs.cache
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.AssemblyInfo.cs
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.dll
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\obj\Debug\net6.0\refint\JurassicWorld.Domain.dll
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.pdb
+C:\Users\Leerkracht\source\repos\JurassicWorld\JurassicWorld.Domain\obj\Debug\net6.0\ref\JurassicWorld.Domain.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\bin\Debug\net6.0\JurassicWorld.Domain.deps.json
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\bin\Debug\net6.0\JurassicWorld.Domain.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\bin\Debug\net6.0\JurassicWorld.Domain.pdb
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.csproj.AssemblyReference.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.AssemblyInfoInputs.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.AssemblyInfo.cs
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.csproj.CoreCompileInputs.cache
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\obj\Debug\net6.0\refint\JurassicWorld.Domain.dll
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\obj\Debug\net6.0\JurassicWorld.Domain.pdb
+G:\Mijn Drive\De passer\SOSY\C#\Examen 2022\JurassicWorld_oplossing\JurassicWorld.Domain\obj\Debug\net6.0\ref\JurassicWorld.Domain.dll

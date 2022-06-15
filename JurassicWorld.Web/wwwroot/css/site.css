@@ -1,0 +1,56 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+@font-face {
+    font-family: 'Jurassic';
+    src: URL('../font/JurassicPark.ttf') format('truetype');
+}
+
+h3{
+    font-family: Jurassic;
+    font-size: 100px;
+    color: white;
+}
+
+h5 {
+    font-family: Jurassic;
+    font-size: 50px;
+    color: #FFD13F;
+}
+
+body, nav{
+    background-color: black;
+}
+
+.nav-item a{
+    text-decoration: none;
+    font-family: Jurassic;
+    font-size: 50px;
+    color: #FFD13F!important;
+}
+h4 {
+    text-decoration: none;
+    font-family: Jurassic;
+    font-size: 75px;
+    color: black;
+}
+
+a{
+    text-decoration:none;
+}
